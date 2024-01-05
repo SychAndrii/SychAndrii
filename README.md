@@ -1,4 +1,5 @@
-### <div align="center">I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 🚀</div>  
+## About me
+I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 
 
 ## My achievements
 <div>
