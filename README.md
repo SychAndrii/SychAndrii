@@ -1,7 +1,7 @@
 ### <div align="center">I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 🚀</div>  
 
+## My achievements
 <div>
-    <strong>Achievements:</strong>
     <ul>
         <li>Ontario Skills Competition 2023: 3rd place in Web Development and Design</li>
         <li>Bell Hackathon 2023 participant</li>
