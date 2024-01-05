@@ -4,15 +4,8 @@
   
 
 ### <div align="center">I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 🚀</div>  
-  
 
-- 🔭 I’m currently working on College Chat. Backend: https://github.com/Mounayer/CollegeChat and frontend: https://github.com/Mounayer/CollegeChat-ui
-  
 
-- 🌱 I’m currently learning ASP.NET Core
-  
-
-- 🎓 Programming teaching experience: Lab Assistant at Seneca Polytechnic (C language), Remote Teacher at Superprof (React)   
   
 <br/>  
 
