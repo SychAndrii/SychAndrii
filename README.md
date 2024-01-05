@@ -3,21 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on College Chat. Backend: https://github.com/Mounayer/CollegeChat and frontend: https://github.com/Mounayer/CollegeChat-ui
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning ASP.NET Core
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🎓 Programming teaching experience: Lab Assistant at Seneca Polytechnic (C language), Remote Teacher at Superprof (React)   
   
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
