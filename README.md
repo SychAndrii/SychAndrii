@@ -1,12 +1,14 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 🚀</div>  
 
+<div align="center">
+    <strong>Achievements:</strong>
+    <ul>
+        <li>Ontario Skills Competition 2023: 3rd place in Web Development and Design</li>
+        <li>Bell Hackathon 2023 participant</li>
+        <li>Seneca President's Honor List: Winter 2022, Winter 2023, Fall 2023</li>
+    </ul>
+</div>
 
-  
 <br/>  
 
 
