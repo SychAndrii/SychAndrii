@@ -1,5 +1,5 @@
 ## About me
-I'm Andrii Sych, a student at Seneca Polytechnic (7th semester) looking for a Winter Co-op (4 months) 
+Hi, I'm Andrii Sych, a 7th-semester student at Seneca Polytechnic, actively seeking a Winter Co-op (4 months) to apply my skills and passion for large-scale distributed systems. I enjoy designing, maintaining, and optimizing these systems to improve performance, scalability, and reliability. I thrive on solving complex problems, integrating new technologies, and working on cloud-native architectures. I am eager to contribute to impactful projects that make a difference. Let's connect and build something great!
 
 ## My achievements
 <div>
