@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit**
 
-- 👯 I’m looking to collaborate on [ASP NET Core](https://github.com/dotnet/aspnetcore)
+- 👯 I’m looking to collaborate on [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 
 - 🤝 I’m looking for help with [Infusion](https://github.com/SychAndrii/infusion)
 
