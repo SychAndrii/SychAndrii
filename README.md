@@ -1,12 +1,12 @@
 ## About me
-I'm Andrii Sych, a student at Seneca Polytechnic (6th semester) looking for a summer internship (4 months) 
+I'm Andrii Sych, a student at Seneca Polytechnic (7th semester) looking for a Winter Co-op (4 months) 
 
 ## My achievements
 <div>
     <ul>
+        <li>Seneca Housing Hackathon winner</li>
         <li>Ontario Skills Competition 2023: 3rd place in Web Development and Design</li>
-        <li>Bell Hackathon 2023 participant</li>
-        <li>Seneca President's Honor List: Winter 2022, Winter 2023, Fall 2023</li>
+        <li>Seneca President's Honor List: Winter 2022, Winter 2023, Fall 2023, Winter 2024</li>
     </ul>
 </div>
 
