@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii Sych</h1>
-<h3 align="center">I am a 7th-semester student at Seneca Polytechnic, actively seeking a Winter Co-op (4 months) to apply my skills and passion for large-scale distributed systems. I enjoy designing, maintaining, and optimizing these systems to improve performance, scalability, and reliability. I thrive on solving complex problems, integrating new technologies, and working on cloud-native architectures. I am eager to contribute to impactful projects that make a difference. Let's connect and build something great!</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [SpeechScan](https://github.com/SpeechScan/DocumentReferencer)
 
