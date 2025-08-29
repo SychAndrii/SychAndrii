@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WorkoutCreator](https://github.com/SychAndrii/WorkoutCreator)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 👯 I’m looking to collaborate on [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 
