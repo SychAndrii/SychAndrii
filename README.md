@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer from Canada, Toronto.
+My name is Andrii Sych. I'm a software engineer from Canada, Toronto.
 
 ## Quick overview
 
