@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrii Sych</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [SpeechScan](https://github.com/SpeechScan/DocumentReferencer)
+- 🔭 I’m currently working on [WorkoutCreator](https://github.com/SychAndrii/WorkoutCreator)
 
 - 🌱 I’m currently learning **Redux Toolkit**
 
 - 👯 I’m looking to collaborate on [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 
-- 🤝 I’m looking for help with [Infusion](https://github.com/SychAndrii/infusion)
+- 🤝 I’m looking for help with [WorkoutCreator](https://github.com/SychAndrii/WorkoutCreator)
 
 - 📫 How to reach me **andrii.sych.2003@gmail.com**
 
